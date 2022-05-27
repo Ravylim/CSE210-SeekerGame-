@@ -1,0 +1,15 @@
+/Users/ravy/Downloads/MY ACADELMIC /Spring 2022/CSE 210 - Programming With Classes/Seeker Game/obj/Debug/net6.0/Seeker Game.csproj.AssemblyReference.cache
+/Users/ravy/Downloads/MY ACADELMIC /Spring 2022/CSE 210 - Programming With Classes/Seeker Game/obj/Debug/net6.0/Seeker Game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ravy/Downloads/MY ACADELMIC /Spring 2022/CSE 210 - Programming With Classes/Seeker Game/obj/Debug/net6.0/Seeker Game.AssemblyInfoInputs.cache
+/Users/ravy/Downloads/MY ACADELMIC /Spring 2022/CSE 210 - Programming With Classes/Seeker Game/obj/Debug/net6.0/Seeker Game.AssemblyInfo.cs
+/Users/ravy/Downloads/MY ACADELMIC /Spring 2022/CSE 210 - Programming With Classes/Seeker Game/obj/Debug/net6.0/Seeker Game.csproj.CoreCompileInputs.cache
+/Users/ravy/Downloads/MY ACADELMIC /Spring 2022/CSE 210 - Programming With Classes/Seeker Game/bin/Debug/net6.0/Seeker Game
+/Users/ravy/Downloads/MY ACADELMIC /Spring 2022/CSE 210 - Programming With Classes/Seeker Game/bin/Debug/net6.0/Seeker Game.deps.json
+/Users/ravy/Downloads/MY ACADELMIC /Spring 2022/CSE 210 - Programming With Classes/Seeker Game/bin/Debug/net6.0/Seeker Game.runtimeconfig.json
+/Users/ravy/Downloads/MY ACADELMIC /Spring 2022/CSE 210 - Programming With Classes/Seeker Game/bin/Debug/net6.0/Seeker Game.dll
+/Users/ravy/Downloads/MY ACADELMIC /Spring 2022/CSE 210 - Programming With Classes/Seeker Game/bin/Debug/net6.0/Seeker Game.pdb
+/Users/ravy/Downloads/MY ACADELMIC /Spring 2022/CSE 210 - Programming With Classes/Seeker Game/obj/Debug/net6.0/Seeker Game.dll
+/Users/ravy/Downloads/MY ACADELMIC /Spring 2022/CSE 210 - Programming With Classes/Seeker Game/obj/Debug/net6.0/refint/Seeker Game.dll
+/Users/ravy/Downloads/MY ACADELMIC /Spring 2022/CSE 210 - Programming With Classes/Seeker Game/obj/Debug/net6.0/Seeker Game.pdb
+/Users/ravy/Downloads/MY ACADELMIC /Spring 2022/CSE 210 - Programming With Classes/Seeker Game/obj/Debug/net6.0/Seeker Game.genruntimeconfig.cache
+/Users/ravy/Downloads/MY ACADELMIC /Spring 2022/CSE 210 - Programming With Classes/Seeker Game/obj/Debug/net6.0/ref/Seeker Game.dll
